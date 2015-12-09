@@ -1,0 +1,12 @@
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.EnterForm.resources
+C:\Users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.Main.resources
+C:\Users\creptus\documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.RecordsForm.resources
